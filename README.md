@@ -7,7 +7,7 @@ Beste Lezer,
 Hierbij het Nederlandse language file voor Yealink toestellen.
 Om dit bestand te provisionen moet je hem opslaan als lang-Dutch.txt op de provisioning server.
 
-Tevens zijn de onderstaande settings nodig in de config om de taal in te stellen:
+Tevens zijn de onderstaande settings in het toestel nodig in de config om de taal in te stellen:
 
 lang.gui = Dutch
 
