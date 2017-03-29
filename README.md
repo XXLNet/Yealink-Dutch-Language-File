@@ -10,6 +10,7 @@ Om dit bestand te provisionen moet je hem opslaan als lang-Dutch.txt op de provi
 Tevens zijn de onderstaande settings nodig in de config om de taal in te stellen:
 
 lang.gui = Dutch
+
 gui_lang.url = https://URL.nl/lang-Dutch.txt
 
 Groeten
