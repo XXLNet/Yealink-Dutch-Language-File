@@ -11,6 +11,7 @@ Tevens zijn de onderstaande settings in het toestel nodig in de config om de taa
 
 
 gui_lang.url = https://URL.nl/SIP-XXX_lang-Dutch.txt
+
 lang.gui = SIP-XXX_lang-Dutch
 
 Groeten
